@@ -1,1 +1,1 @@
-# Petit-jeu-en-react
+# Small React Game
